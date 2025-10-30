@@ -1,0 +1,22 @@
+# Ignore environment files
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+
+# Ignore virtual environments
+venv/
+env/
+yt_transcribe_new/
+
+# Ignore temporary files
+/tmp/
+*.pdf
+.DS_Store
+
+# Ignore AWS credentials
+.aws/
